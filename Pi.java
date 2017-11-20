@@ -61,7 +61,7 @@ public class Pi {
 		double pi = ratio * 4;
 
 		String output = "Total = \t %d\n" +
-						"Inside = \t %d\n" +
+		                "Inside = \t %d\n" +
 						"Ratio = \t %f\n" +
 						"Pi = \t\t %f\n\n" +
 						"Time: %f sec\n";
