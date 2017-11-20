@@ -6,11 +6,15 @@ Inside =         3927743
 Ratio =          0.785549
 Pi =             3.142194
 
+Time: 0.103000 sec
+
 $ java Pi 10 50000
 Total =          50000
 Inside =         39565
 Ratio =          0.791300
 Pi =             3.165200
+
+Time: 0.010000 sec
 
 $ java Pi 1000 6500000
 Total =          6500000
