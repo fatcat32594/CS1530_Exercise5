@@ -3,7 +3,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 /*
  * Java Pi Approximator using threads
- * Steve Hardy -srh89
+ * Steve Hardy - srh89
  */
 
 public class Pi {
